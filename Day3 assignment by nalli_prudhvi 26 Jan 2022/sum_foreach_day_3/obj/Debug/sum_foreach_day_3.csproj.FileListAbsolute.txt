@@ -1,0 +1,8 @@
+C:\Users\SYS\source\repos\sum_foreach_day_3\obj\Debug\sum_foreach_day_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\SYS\source\repos\sum_foreach_day_3\obj\Debug\sum_foreach_day_3.csproj.CoreCompileInputs.cache
+C:\Users\SYS\source\repos\sum_foreach_day_3\bin\Debug\sum_foreach_day_3.exe.config
+C:\Users\SYS\source\repos\sum_foreach_day_3\bin\Debug\sum_foreach_day_3.exe
+C:\Users\SYS\source\repos\sum_foreach_day_3\bin\Debug\sum_foreach_day_3.pdb
+C:\Users\SYS\source\repos\sum_foreach_day_3\obj\Debug\sum_foreach_day_3.csproj.AssemblyReference.cache
+C:\Users\SYS\source\repos\sum_foreach_day_3\obj\Debug\sum_foreach_day_3.exe
+C:\Users\SYS\source\repos\sum_foreach_day_3\obj\Debug\sum_foreach_day_3.pdb
