@@ -1,0 +1,7 @@
+C:\Users\SYS\source\repos\Day_2_Evening__project_5\bin\Debug\Day_2_Evening__project_5.exe.config
+C:\Users\SYS\source\repos\Day_2_Evening__project_5\bin\Debug\Day_2_Evening__project_5.exe
+C:\Users\SYS\source\repos\Day_2_Evening__project_5\bin\Debug\Day_2_Evening__project_5.pdb
+C:\Users\SYS\source\repos\Day_2_Evening__project_5\obj\Debug\Day_2_Evening__project_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\SYS\source\repos\Day_2_Evening__project_5\obj\Debug\Day_2_Evening__project_5.csproj.CoreCompileInputs.cache
+C:\Users\SYS\source\repos\Day_2_Evening__project_5\obj\Debug\Day_2_Evening__project_5.exe
+C:\Users\SYS\source\repos\Day_2_Evening__project_5\obj\Debug\Day_2_Evening__project_5.pdb
