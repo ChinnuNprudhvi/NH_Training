@@ -1,0 +1,8 @@
+C:\Users\SYS\source\repos\array_Day3\obj\Debug\array_Day3.csproj.AssemblyReference.cache
+C:\Users\SYS\source\repos\array_Day3\obj\Debug\array_Day3.csproj.SuggestedBindingRedirects.cache
+C:\Users\SYS\source\repos\array_Day3\obj\Debug\array_Day3.csproj.CoreCompileInputs.cache
+C:\Users\SYS\source\repos\array_Day3\bin\Debug\array_Day3.exe.config
+C:\Users\SYS\source\repos\array_Day3\bin\Debug\array_Day3.exe
+C:\Users\SYS\source\repos\array_Day3\bin\Debug\array_Day3.pdb
+C:\Users\SYS\source\repos\array_Day3\obj\Debug\array_Day3.exe
+C:\Users\SYS\source\repos\array_Day3\obj\Debug\array_Day3.pdb
