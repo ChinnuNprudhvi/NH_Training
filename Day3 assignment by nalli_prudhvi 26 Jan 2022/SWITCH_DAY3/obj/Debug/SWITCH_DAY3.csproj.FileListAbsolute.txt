@@ -1,0 +1,8 @@
+C:\Users\SYS\source\repos\SWITCH_DAY3\bin\Debug\SWITCH_DAY3.exe.config
+C:\Users\SYS\source\repos\SWITCH_DAY3\bin\Debug\SWITCH_DAY3.exe
+C:\Users\SYS\source\repos\SWITCH_DAY3\bin\Debug\SWITCH_DAY3.pdb
+C:\Users\SYS\source\repos\SWITCH_DAY3\obj\Debug\SWITCH_DAY3.csproj.AssemblyReference.cache
+C:\Users\SYS\source\repos\SWITCH_DAY3\obj\Debug\SWITCH_DAY3.csproj.SuggestedBindingRedirects.cache
+C:\Users\SYS\source\repos\SWITCH_DAY3\obj\Debug\SWITCH_DAY3.csproj.CoreCompileInputs.cache
+C:\Users\SYS\source\repos\SWITCH_DAY3\obj\Debug\SWITCH_DAY3.exe
+C:\Users\SYS\source\repos\SWITCH_DAY3\obj\Debug\SWITCH_DAY3.pdb
