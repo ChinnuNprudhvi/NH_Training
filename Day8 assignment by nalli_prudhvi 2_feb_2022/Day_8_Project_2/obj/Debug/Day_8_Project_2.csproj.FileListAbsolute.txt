@@ -1,0 +1,8 @@
+C:\Users\SYS\source\repos\Day_8_Project_2\bin\Debug\Day_8_Project_2.exe.config
+C:\Users\SYS\source\repos\Day_8_Project_2\bin\Debug\Day_8_Project_2.exe
+C:\Users\SYS\source\repos\Day_8_Project_2\bin\Debug\Day_8_Project_2.pdb
+C:\Users\SYS\source\repos\Day_8_Project_2\obj\Debug\Day_8_Project_2.csproj.AssemblyReference.cache
+C:\Users\SYS\source\repos\Day_8_Project_2\obj\Debug\Day_8_Project_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\SYS\source\repos\Day_8_Project_2\obj\Debug\Day_8_Project_2.csproj.CoreCompileInputs.cache
+C:\Users\SYS\source\repos\Day_8_Project_2\obj\Debug\Day_8_Project_2.exe
+C:\Users\SYS\source\repos\Day_8_Project_2\obj\Debug\Day_8_Project_2.pdb
