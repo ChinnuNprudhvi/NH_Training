@@ -1,0 +1,7 @@
+C:\Users\SYS\source\repos\DAy10_overriding\bin\Debug\DAy10_overriding.exe.config
+C:\Users\SYS\source\repos\DAy10_overriding\bin\Debug\DAy10_overriding.exe
+C:\Users\SYS\source\repos\DAy10_overriding\bin\Debug\DAy10_overriding.pdb
+C:\Users\SYS\source\repos\DAy10_overriding\obj\Debug\DAy10_overriding.csproj.SuggestedBindingRedirects.cache
+C:\Users\SYS\source\repos\DAy10_overriding\obj\Debug\DAy10_overriding.csproj.CoreCompileInputs.cache
+C:\Users\SYS\source\repos\DAy10_overriding\obj\Debug\DAy10_overriding.exe
+C:\Users\SYS\source\repos\DAy10_overriding\obj\Debug\DAy10_overriding.pdb
