@@ -1,0 +1,8 @@
+C:\Users\SYS\source\repos\Day_10_over loading\bin\Debug\Day_10_over loading.exe.config
+C:\Users\SYS\source\repos\Day_10_over loading\bin\Debug\Day_10_over loading.exe
+C:\Users\SYS\source\repos\Day_10_over loading\bin\Debug\Day_10_over loading.pdb
+C:\Users\SYS\source\repos\Day_10_over loading\obj\Debug\Day_10_over loading.csproj.AssemblyReference.cache
+C:\Users\SYS\source\repos\Day_10_over loading\obj\Debug\Day_10_over loading.csproj.SuggestedBindingRedirects.cache
+C:\Users\SYS\source\repos\Day_10_over loading\obj\Debug\Day_10_over loading.csproj.CoreCompileInputs.cache
+C:\Users\SYS\source\repos\Day_10_over loading\obj\Debug\Day_10_over loading.exe
+C:\Users\SYS\source\repos\Day_10_over loading\obj\Debug\Day_10_over loading.pdb

@@ -1,0 +1,8 @@
+C:\Users\SYS\source\repos\Day_!0_inheretence\bin\Debug\Day_!0_inheretence.exe.config
+C:\Users\SYS\source\repos\Day_!0_inheretence\bin\Debug\Day_!0_inheretence.exe
+C:\Users\SYS\source\repos\Day_!0_inheretence\bin\Debug\Day_!0_inheretence.pdb
+C:\Users\SYS\source\repos\Day_!0_inheretence\obj\Debug\Day_!0_inheretence.csproj.AssemblyReference.cache
+C:\Users\SYS\source\repos\Day_!0_inheretence\obj\Debug\Day_!0_inheretence.csproj.SuggestedBindingRedirects.cache
+C:\Users\SYS\source\repos\Day_!0_inheretence\obj\Debug\Day_!0_inheretence.csproj.CoreCompileInputs.cache
+C:\Users\SYS\source\repos\Day_!0_inheretence\obj\Debug\Day_!0_inheretence.exe
+C:\Users\SYS\source\repos\Day_!0_inheretence\obj\Debug\Day_!0_inheretence.pdb
