@@ -1,0 +1,8 @@
+C:\Users\cp452\source\repos\Ishape\Ishape\obj\Debug\Ishape.csproj.AssemblyReference.cache
+C:\Users\cp452\source\repos\Ishape\Ishape\obj\Debug\Ishape.csproj.SuggestedBindingRedirects.cache
+C:\Users\cp452\source\repos\Ishape\Ishape\obj\Debug\Ishape.csproj.CoreCompileInputs.cache
+C:\Users\cp452\source\repos\Ishape\Ishape\bin\Debug\Ishape.exe.config
+C:\Users\cp452\source\repos\Ishape\Ishape\bin\Debug\Ishape.exe
+C:\Users\cp452\source\repos\Ishape\Ishape\bin\Debug\Ishape.pdb
+C:\Users\cp452\source\repos\Ishape\Ishape\obj\Debug\Ishape.exe
+C:\Users\cp452\source\repos\Ishape\Ishape\obj\Debug\Ishape.pdb
