@@ -1,0 +1,8 @@
+C:\Users\cp452\source\repos\D11Properties_Illustration\D11Properties_Illustration\bin\Debug\D11Properties_Illustration.exe.config
+C:\Users\cp452\source\repos\D11Properties_Illustration\D11Properties_Illustration\bin\Debug\D11Properties_Illustration.exe
+C:\Users\cp452\source\repos\D11Properties_Illustration\D11Properties_Illustration\bin\Debug\D11Properties_Illustration.pdb
+C:\Users\cp452\source\repos\D11Properties_Illustration\D11Properties_Illustration\obj\Debug\D11Properties_Illustration.csproj.AssemblyReference.cache
+C:\Users\cp452\source\repos\D11Properties_Illustration\D11Properties_Illustration\obj\Debug\D11Properties_Illustration.csproj.SuggestedBindingRedirects.cache
+C:\Users\cp452\source\repos\D11Properties_Illustration\D11Properties_Illustration\obj\Debug\D11Properties_Illustration.csproj.CoreCompileInputs.cache
+C:\Users\cp452\source\repos\D11Properties_Illustration\D11Properties_Illustration\obj\Debug\D11Properties_Illustration.exe
+C:\Users\cp452\source\repos\D11Properties_Illustration\D11Properties_Illustration\obj\Debug\D11Properties_Illustration.pdb

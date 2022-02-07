@@ -1,0 +1,8 @@
+C:\Users\cp452\source\repos\day11_properties\day11_properties\bin\Debug\day11_properties.exe.config
+C:\Users\cp452\source\repos\day11_properties\day11_properties\bin\Debug\day11_properties.exe
+C:\Users\cp452\source\repos\day11_properties\day11_properties\bin\Debug\day11_properties.pdb
+C:\Users\cp452\source\repos\day11_properties\day11_properties\obj\Debug\day11_properties.csproj.AssemblyReference.cache
+C:\Users\cp452\source\repos\day11_properties\day11_properties\obj\Debug\day11_properties.csproj.SuggestedBindingRedirects.cache
+C:\Users\cp452\source\repos\day11_properties\day11_properties\obj\Debug\day11_properties.csproj.CoreCompileInputs.cache
+C:\Users\cp452\source\repos\day11_properties\day11_properties\obj\Debug\day11_properties.exe
+C:\Users\cp452\source\repos\day11_properties\day11_properties\obj\Debug\day11_properties.pdb
