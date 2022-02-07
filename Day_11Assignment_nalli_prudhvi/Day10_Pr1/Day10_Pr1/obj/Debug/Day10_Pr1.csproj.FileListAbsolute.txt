@@ -1,8 +1,0 @@
-C:\Users\cp452\source\repos\Day10_Pr1\Day10_Pr1\bin\Debug\Day10_Pr1.exe.config
-C:\Users\cp452\source\repos\Day10_Pr1\Day10_Pr1\bin\Debug\Day10_Pr1.exe
-C:\Users\cp452\source\repos\Day10_Pr1\Day10_Pr1\bin\Debug\Day10_Pr1.pdb
-C:\Users\cp452\source\repos\Day10_Pr1\Day10_Pr1\obj\Debug\Day10_Pr1.csproj.AssemblyReference.cache
-C:\Users\cp452\source\repos\Day10_Pr1\Day10_Pr1\obj\Debug\Day10_Pr1.csproj.SuggestedBindingRedirects.cache
-C:\Users\cp452\source\repos\Day10_Pr1\Day10_Pr1\obj\Debug\Day10_Pr1.csproj.CoreCompileInputs.cache
-C:\Users\cp452\source\repos\Day10_Pr1\Day10_Pr1\obj\Debug\Day10_Pr1.exe
-C:\Users\cp452\source\repos\Day10_Pr1\Day10_Pr1\obj\Debug\Day10_Pr1.pdb
