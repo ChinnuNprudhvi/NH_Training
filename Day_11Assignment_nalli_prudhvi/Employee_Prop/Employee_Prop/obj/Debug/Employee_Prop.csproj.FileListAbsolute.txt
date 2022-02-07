@@ -1,0 +1,8 @@
+C:\Users\cp452\source\repos\Employee_Prop\Employee_Prop\bin\Debug\Employee_Prop.exe.config
+C:\Users\cp452\source\repos\Employee_Prop\Employee_Prop\bin\Debug\Employee_Prop.exe
+C:\Users\cp452\source\repos\Employee_Prop\Employee_Prop\bin\Debug\Employee_Prop.pdb
+C:\Users\cp452\source\repos\Employee_Prop\Employee_Prop\obj\Debug\Employee_Prop.csproj.AssemblyReference.cache
+C:\Users\cp452\source\repos\Employee_Prop\Employee_Prop\obj\Debug\Employee_Prop.csproj.SuggestedBindingRedirects.cache
+C:\Users\cp452\source\repos\Employee_Prop\Employee_Prop\obj\Debug\Employee_Prop.csproj.CoreCompileInputs.cache
+C:\Users\cp452\source\repos\Employee_Prop\Employee_Prop\obj\Debug\Employee_Prop.exe
+C:\Users\cp452\source\repos\Employee_Prop\Employee_Prop\obj\Debug\Employee_Prop.pdb
