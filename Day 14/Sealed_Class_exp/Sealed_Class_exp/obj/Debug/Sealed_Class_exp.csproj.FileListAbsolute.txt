@@ -1,0 +1,8 @@
+C:\Users\cp452\source\repos\Sealed_Class_exp\Sealed_Class_exp\bin\Debug\Sealed_Class_exp.exe.config
+C:\Users\cp452\source\repos\Sealed_Class_exp\Sealed_Class_exp\bin\Debug\Sealed_Class_exp.exe
+C:\Users\cp452\source\repos\Sealed_Class_exp\Sealed_Class_exp\bin\Debug\Sealed_Class_exp.pdb
+C:\Users\cp452\source\repos\Sealed_Class_exp\Sealed_Class_exp\obj\Debug\Sealed_Class_exp.csproj.AssemblyReference.cache
+C:\Users\cp452\source\repos\Sealed_Class_exp\Sealed_Class_exp\obj\Debug\Sealed_Class_exp.csproj.SuggestedBindingRedirects.cache
+C:\Users\cp452\source\repos\Sealed_Class_exp\Sealed_Class_exp\obj\Debug\Sealed_Class_exp.csproj.CoreCompileInputs.cache
+C:\Users\cp452\source\repos\Sealed_Class_exp\Sealed_Class_exp\obj\Debug\Sealed_Class_exp.exe
+C:\Users\cp452\source\repos\Sealed_Class_exp\Sealed_Class_exp\obj\Debug\Sealed_Class_exp.pdb
