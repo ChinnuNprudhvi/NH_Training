@@ -1,0 +1,8 @@
+C:\Users\cp452\source\repos\Normal_Properties\Normal_Properties\bin\Debug\Normal_Properties.exe.config
+C:\Users\cp452\source\repos\Normal_Properties\Normal_Properties\bin\Debug\Normal_Properties.exe
+C:\Users\cp452\source\repos\Normal_Properties\Normal_Properties\bin\Debug\Normal_Properties.pdb
+C:\Users\cp452\source\repos\Normal_Properties\Normal_Properties\obj\Debug\Normal_Properties.csproj.AssemblyReference.cache
+C:\Users\cp452\source\repos\Normal_Properties\Normal_Properties\obj\Debug\Normal_Properties.csproj.SuggestedBindingRedirects.cache
+C:\Users\cp452\source\repos\Normal_Properties\Normal_Properties\obj\Debug\Normal_Properties.csproj.CoreCompileInputs.cache
+C:\Users\cp452\source\repos\Normal_Properties\Normal_Properties\obj\Debug\Normal_Properties.exe
+C:\Users\cp452\source\repos\Normal_Properties\Normal_Properties\obj\Debug\Normal_Properties.pdb
