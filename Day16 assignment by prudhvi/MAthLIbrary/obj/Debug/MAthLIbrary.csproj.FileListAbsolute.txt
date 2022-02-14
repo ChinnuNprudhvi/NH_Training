@@ -1,0 +1,6 @@
+C:\Users\cp452\source\repos\MAthLIbrary\bin\Debug\MAthLIbrary.dll
+C:\Users\cp452\source\repos\MAthLIbrary\bin\Debug\MAthLIbrary.pdb
+C:\Users\cp452\source\repos\MAthLIbrary\obj\Debug\MAthLIbrary.csproj.AssemblyReference.cache
+C:\Users\cp452\source\repos\MAthLIbrary\obj\Debug\MAthLIbrary.csproj.CoreCompileInputs.cache
+C:\Users\cp452\source\repos\MAthLIbrary\obj\Debug\MAthLIbrary.dll
+C:\Users\cp452\source\repos\MAthLIbrary\obj\Debug\MAthLIbrary.pdb

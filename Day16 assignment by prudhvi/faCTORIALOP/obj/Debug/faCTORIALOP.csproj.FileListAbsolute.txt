@@ -1,0 +1,11 @@
+C:\Users\cp452\source\repos\faCTORIALOP\bin\Debug\faCTORIALOP.exe.config
+C:\Users\cp452\source\repos\faCTORIALOP\bin\Debug\faCTORIALOP.exe
+C:\Users\cp452\source\repos\faCTORIALOP\bin\Debug\faCTORIALOP.pdb
+C:\Users\cp452\source\repos\faCTORIALOP\obj\Debug\faCTORIALOP.csproj.AssemblyReference.cache
+C:\Users\cp452\source\repos\faCTORIALOP\obj\Debug\faCTORIALOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\cp452\source\repos\faCTORIALOP\obj\Debug\faCTORIALOP.WELCOME.resources
+C:\Users\cp452\source\repos\faCTORIALOP\obj\Debug\faCTORIALOP.Properties.Resources.resources
+C:\Users\cp452\source\repos\faCTORIALOP\obj\Debug\faCTORIALOP.csproj.GenerateResource.cache
+C:\Users\cp452\source\repos\faCTORIALOP\obj\Debug\faCTORIALOP.csproj.CoreCompileInputs.cache
+C:\Users\cp452\source\repos\faCTORIALOP\obj\Debug\faCTORIALOP.exe
+C:\Users\cp452\source\repos\faCTORIALOP\obj\Debug\faCTORIALOP.pdb

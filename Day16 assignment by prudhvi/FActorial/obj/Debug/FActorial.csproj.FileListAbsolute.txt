@@ -1,0 +1,7 @@
+C:\Users\cp452\source\repos\FActorial\bin\Debug\FActorial.exe.config
+C:\Users\cp452\source\repos\FActorial\bin\Debug\FActorial.exe
+C:\Users\cp452\source\repos\FActorial\bin\Debug\FActorial.pdb
+C:\Users\cp452\source\repos\FActorial\obj\Debug\FActorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\cp452\source\repos\FActorial\obj\Debug\FActorial.csproj.CoreCompileInputs.cache
+C:\Users\cp452\source\repos\FActorial\obj\Debug\FActorial.exe
+C:\Users\cp452\source\repos\FActorial\obj\Debug\FActorial.pdb
