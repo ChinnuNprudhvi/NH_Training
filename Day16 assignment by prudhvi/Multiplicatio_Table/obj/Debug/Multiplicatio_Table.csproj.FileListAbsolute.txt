@@ -1,0 +1,8 @@
+C:\Users\cp452\source\repos\Multiplicatio_Table\bin\Debug\Multiplicatio_Table.exe.config
+C:\Users\cp452\source\repos\Multiplicatio_Table\bin\Debug\Multiplicatio_Table.exe
+C:\Users\cp452\source\repos\Multiplicatio_Table\bin\Debug\Multiplicatio_Table.pdb
+C:\Users\cp452\source\repos\Multiplicatio_Table\obj\Debug\Multiplicatio_Table.csproj.AssemblyReference.cache
+C:\Users\cp452\source\repos\Multiplicatio_Table\obj\Debug\Multiplicatio_Table.csproj.SuggestedBindingRedirects.cache
+C:\Users\cp452\source\repos\Multiplicatio_Table\obj\Debug\Multiplicatio_Table.csproj.CoreCompileInputs.cache
+C:\Users\cp452\source\repos\Multiplicatio_Table\obj\Debug\Multiplicatio_Table.exe
+C:\Users\cp452\source\repos\Multiplicatio_Table\obj\Debug\Multiplicatio_Table.pdb

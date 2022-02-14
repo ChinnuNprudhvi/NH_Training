@@ -1,0 +1,8 @@
+C:\Users\cp452\source\repos\Palendrome\bin\Debug\Palendrome.exe.config
+C:\Users\cp452\source\repos\Palendrome\bin\Debug\Palendrome.exe
+C:\Users\cp452\source\repos\Palendrome\bin\Debug\Palendrome.pdb
+C:\Users\cp452\source\repos\Palendrome\obj\Debug\Palendrome.csproj.AssemblyReference.cache
+C:\Users\cp452\source\repos\Palendrome\obj\Debug\Palendrome.csproj.SuggestedBindingRedirects.cache
+C:\Users\cp452\source\repos\Palendrome\obj\Debug\Palendrome.csproj.CoreCompileInputs.cache
+C:\Users\cp452\source\repos\Palendrome\obj\Debug\Palendrome.exe
+C:\Users\cp452\source\repos\Palendrome\obj\Debug\Palendrome.pdb

@@ -1,0 +1,3 @@
+C:\Users\cp452\source\repos\MyPro\obj\Debug\MyPro.csproj.AssemblyReference.cache
+C:\Users\cp452\source\repos\MyPro\obj\Debug\MyPro.csproj.SuggestedBindingRedirects.cache
+C:\Users\cp452\source\repos\MyPro\obj\Debug\MyPro.csproj.CoreCompileInputs.cache
