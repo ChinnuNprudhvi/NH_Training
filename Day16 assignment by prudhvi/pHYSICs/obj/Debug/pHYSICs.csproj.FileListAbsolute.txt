@@ -1,0 +1,6 @@
+C:\Users\cp452\source\repos\pHYSICs\bin\Debug\pHYSICs.dll
+C:\Users\cp452\source\repos\pHYSICs\bin\Debug\pHYSICs.pdb
+C:\Users\cp452\source\repos\pHYSICs\obj\Debug\pHYSICs.csproj.AssemblyReference.cache
+C:\Users\cp452\source\repos\pHYSICs\obj\Debug\pHYSICs.csproj.CoreCompileInputs.cache
+C:\Users\cp452\source\repos\pHYSICs\obj\Debug\pHYSICs.dll
+C:\Users\cp452\source\repos\pHYSICs\obj\Debug\pHYSICs.pdb
