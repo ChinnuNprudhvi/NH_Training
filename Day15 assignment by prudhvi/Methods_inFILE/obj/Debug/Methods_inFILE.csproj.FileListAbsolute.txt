@@ -1,0 +1,8 @@
+C:\Users\cp452\source\repos\Methods_inFILE\bin\Debug\Methods_inFILE.exe.config
+C:\Users\cp452\source\repos\Methods_inFILE\bin\Debug\Methods_inFILE.exe
+C:\Users\cp452\source\repos\Methods_inFILE\bin\Debug\Methods_inFILE.pdb
+C:\Users\cp452\source\repos\Methods_inFILE\obj\Debug\Methods_inFILE.csproj.AssemblyReference.cache
+C:\Users\cp452\source\repos\Methods_inFILE\obj\Debug\Methods_inFILE.csproj.SuggestedBindingRedirects.cache
+C:\Users\cp452\source\repos\Methods_inFILE\obj\Debug\Methods_inFILE.csproj.CoreCompileInputs.cache
+C:\Users\cp452\source\repos\Methods_inFILE\obj\Debug\Methods_inFILE.exe
+C:\Users\cp452\source\repos\Methods_inFILE\obj\Debug\Methods_inFILE.pdb
