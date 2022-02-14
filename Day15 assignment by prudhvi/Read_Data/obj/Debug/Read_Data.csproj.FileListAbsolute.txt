@@ -1,0 +1,8 @@
+C:\Users\cp452\source\repos\Read_Data\bin\Debug\Read_Data.exe.config
+C:\Users\cp452\source\repos\Read_Data\bin\Debug\Read_Data.exe
+C:\Users\cp452\source\repos\Read_Data\bin\Debug\Read_Data.pdb
+C:\Users\cp452\source\repos\Read_Data\obj\Debug\Read_Data.csproj.AssemblyReference.cache
+C:\Users\cp452\source\repos\Read_Data\obj\Debug\Read_Data.csproj.SuggestedBindingRedirects.cache
+C:\Users\cp452\source\repos\Read_Data\obj\Debug\Read_Data.csproj.CoreCompileInputs.cache
+C:\Users\cp452\source\repos\Read_Data\obj\Debug\Read_Data.exe
+C:\Users\cp452\source\repos\Read_Data\obj\Debug\Read_Data.pdb

@@ -1,0 +1,8 @@
+C:\Users\cp452\source\repos\WRITE AND APPEND\bin\Debug\WRITE AND APPEND.exe.config
+C:\Users\cp452\source\repos\WRITE AND APPEND\bin\Debug\WRITE AND APPEND.exe
+C:\Users\cp452\source\repos\WRITE AND APPEND\bin\Debug\WRITE AND APPEND.pdb
+C:\Users\cp452\source\repos\WRITE AND APPEND\obj\Debug\WRITE AND APPEND.csproj.AssemblyReference.cache
+C:\Users\cp452\source\repos\WRITE AND APPEND\obj\Debug\WRITE AND APPEND.csproj.SuggestedBindingRedirects.cache
+C:\Users\cp452\source\repos\WRITE AND APPEND\obj\Debug\WRITE AND APPEND.csproj.CoreCompileInputs.cache
+C:\Users\cp452\source\repos\WRITE AND APPEND\obj\Debug\WRITE AND APPEND.exe
+C:\Users\cp452\source\repos\WRITE AND APPEND\obj\Debug\WRITE AND APPEND.pdb

@@ -1,0 +1,7 @@
+C:\Users\cp452\source\repos\My_quizz\bin\Debug\My_quizz.exe.config
+C:\Users\cp452\source\repos\My_quizz\bin\Debug\My_quizz.exe
+C:\Users\cp452\source\repos\My_quizz\bin\Debug\My_quizz.pdb
+C:\Users\cp452\source\repos\My_quizz\obj\Debug\My_quizz.csproj.SuggestedBindingRedirects.cache
+C:\Users\cp452\source\repos\My_quizz\obj\Debug\My_quizz.csproj.CoreCompileInputs.cache
+C:\Users\cp452\source\repos\My_quizz\obj\Debug\My_quizz.exe
+C:\Users\cp452\source\repos\My_quizz\obj\Debug\My_quizz.pdb
