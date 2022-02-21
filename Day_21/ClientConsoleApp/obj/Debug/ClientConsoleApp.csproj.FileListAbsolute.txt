@@ -1,0 +1,8 @@
+C:\Users\cp452\source\repos\ClientConsoleApp\bin\Debug\ClientConsoleApp.exe.config
+C:\Users\cp452\source\repos\ClientConsoleApp\bin\Debug\ClientConsoleApp.exe
+C:\Users\cp452\source\repos\ClientConsoleApp\bin\Debug\ClientConsoleApp.pdb
+C:\Users\cp452\source\repos\ClientConsoleApp\obj\Debug\ClientConsoleApp.csproj.AssemblyReference.cache
+C:\Users\cp452\source\repos\ClientConsoleApp\obj\Debug\ClientConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\cp452\source\repos\ClientConsoleApp\obj\Debug\ClientConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\cp452\source\repos\ClientConsoleApp\obj\Debug\ClientConsoleApp.exe
+C:\Users\cp452\source\repos\ClientConsoleApp\obj\Debug\ClientConsoleApp.pdb
